@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Noa
+### Hi there 👋,I'm Noa
 ✉️ How to reach me- n0548403220@gmail.com
 ## Languages and Tools:
 
