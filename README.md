@@ -3,7 +3,8 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TzN3220&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TzN3220&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TzN3220&show_icons=true&theme=radical&count_private=true&bg_color=00000000)
+
 
 <!--
 **TzN3220/TzN3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
