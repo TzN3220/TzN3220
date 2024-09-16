@@ -1,4 +1,5 @@
 ###                                              Hi there 👋,I'm Noa
+✉️ How to reach me- n0548403220@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=TzN3220
 )](https://github.com/ryo-ma/github-profile-trophy)
 
