@@ -1,6 +1,5 @@
 # Hi there 👋,I'm Noa
-## I'm a software developer who loves new ideas Write code, meet goals and with a lot of motivation to move forward and succeed,
-I enjoy learning new technologies and developing innovative solutions that have a positive impact. If you are looking for a dedicated software developer, I would love to join your team!🤩
+## I'm a software developer who loves new ideas Write code, meet goals and with a lot of motivation to move forward and succeed, I enjoy learning new technologies and developing innovative solutions that have a positive impact. If you are looking for a dedicated software developer, I would love to join your team!🤩
 ✉️ How to reach me- n0548403220@gmail.com
 ## Languages and Tools:
 
